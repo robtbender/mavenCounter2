@@ -24,4 +24,5 @@ public class CounterBean {
         return hits++;
     }
     /* A change to test branching. */
+    /* A change on the master. */
 }
