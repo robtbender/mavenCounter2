@@ -23,4 +23,5 @@ public class CounterBean {
     public int getHits() {
         return hits++;
     }
+    /* A change to test branching. */
 }
